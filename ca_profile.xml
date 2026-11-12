@@ -4,5 +4,5 @@
   <WebPage>https://github.com/chrizantoz</WebPage>
   <Donate>https://ko-fi.com/chrizantoz</Donate>
   <DonateText>Buy me a coffee</DonateText>
-  <Profile>Free, open-source tools for people who run their own stuff: home servers, media libraries, consoles. Auditarr is the first: nightly quality control for a Sonarr / Radarr / Bazarr / Plex library that finds broken downloads, wrong languages and missing subtitles while you sleep, fixes what is safe, and never deletes anything outright.</Profile>
+  <Profile>Free, open-source tools for people who run their own stuff: home servers, media libraries, consoles. Auditarr: nightly quality control for a Sonarr / Radarr / Bazarr / Plex library that finds broken downloads, wrong languages and missing subtitles while you sleep, fixes what is safe, and never deletes anything outright. Dedupearr: the truth about your storage, which downloads are real hardlinks, second copies, leftovers or orphans, with the evidence per file.</Profile>
 </Profile>
